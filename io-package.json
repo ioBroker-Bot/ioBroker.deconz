@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "deconz",
-    "version": "1.7.4",
+    "version": "1.7.5",
     "news": {
+      "1.7.5": {
+        "en": "* chore: release v1.7.4\n* update README.md\n* update README.md\n* update package-lock.json\n* update dependencies Remove news\n* chore: release v1.7.3\n* update dependencies\n* chore: release v1.7.2\n* fix: remove [skip ci] from release commit so test-and-release triggers on tag\n* chore: release v1.7.1 [skip ci]\n* chore: update GitHub Actions to v6 (Node.js 24 compatibility)\n* fix: export VERSION and DATE env vars for Python subprocess in release workflow\n* fix: make UTCtoLocal robust against invalid/already-timezone-aware timestamps\n* Bump node-forge from 1.3.2 to 1.4.0\n* Update from template: S5043-useNodePrefix\n* Bump picomatch\n* chore: update monthly release workflow - add io-package.json and README changelog\n* chore: add monthly release workflow\n* Uncomment NPM deployment steps in workflow\n* Bump flatted from 3.3.3 to 3.4.2",
+        "de": "Abhängigkeiten aktualisiert",
+        "ru": "Обновлены зависимости",
+        "pt": "Dependências atualizadas",
+        "nl": "Afhankelijkheden bijgewerkt",
+        "fr": "Dépendances mises à jour",
+        "it": "Dipendenze aggiornate",
+        "es": "Dependencias actualizadas",
+        "pl": "Zaktualizowano zależności",
+        "uk": "Оновлено залежності",
+        "zh-cn": "更新依赖"
+      },
       "1.7.4": {
         "en": "update dependencies",
         "de": "aktualisierung der abhängigkeiten",

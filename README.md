@@ -47,6 +47,28 @@ Examples:
 ## [Sponsors](https://github.com/Jey-Cee/ioBroker.deconz/blob/master/SPONSORS.MD)
 
 ## Changelog
+### 1.7.5 (2026-04-03)
+* chore: release v1.7.4
+* update README.md
+* update README.md
+* update package-lock.json
+* update dependencies Remove news
+* chore: release v1.7.3
+* update dependencies
+* chore: release v1.7.2
+* fix: remove [skip ci] from release commit so test-and-release triggers on tag
+* chore: release v1.7.1 [skip ci]
+* chore: update GitHub Actions to v6 (Node.js 24 compatibility)
+* fix: export VERSION and DATE env vars for Python subprocess in release workflow
+* fix: make UTCtoLocal robust against invalid/already-timezone-aware timestamps
+* Bump node-forge from 1.3.2 to 1.4.0
+* Update from template: S5043-useNodePrefix
+* Bump picomatch
+* chore: update monthly release workflow - add io-package.json and README changelog
+* chore: add monthly release workflow
+* Uncomment NPM deployment steps in workflow
+* Bump flatted from 3.3.3 to 3.4.2
+
 ### 1.7.4 (2026-03-29)
 - update dependencies
 
